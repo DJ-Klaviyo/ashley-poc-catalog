@@ -4,83 +4,71 @@
     "title": "Genoa Exclusive Oversized Ottoman",
     "link": "https://ashleyhomestore.ca/products/genoa-ottoman",
     "description": "Genoa oversized ottoman, Manitoba region pricing",
-    "price": 249,
+    "price": 299.00,
     "image_link": "https://placehold.co/400x400?text=Genoa+Ottoman",
-    "categories": [
-      "living-room",
-      "ottoman"
-    ],
+    "categories": ["living-room", "ottoman"],
     "inventory_quantity": 25,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": { "sale_price": 249.00 }
   },
   {
     "id": "OTTOMAN-204-ON",
     "title": "Genoa Exclusive Oversized Ottoman",
     "link": "https://ashleyhomestore.ca/products/genoa-ottoman",
     "description": "Genoa oversized ottoman, Ontario region pricing",
-    "price": 259,
+    "price": 259.00,
     "image_link": "https://placehold.co/400x400?text=Genoa+Ottoman",
-    "categories": [
-      "living-room",
-      "ottoman"
-    ],
+    "categories": ["living-room", "ottoman"],
     "inventory_quantity": 30,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": {}
   },
   {
     "id": "SOFA-101-MB",
     "title": "Genoa Fabric Sofa",
     "link": "https://ashleyhomestore.ca/products/genoa-sofa",
     "description": "Genoa fabric sofa, Manitoba region pricing",
-    "price": 1299,
+    "price": 1499.00,
     "image_link": "https://placehold.co/400x400?text=Genoa+Sofa",
-    "categories": [
-      "living-room",
-      "sofa"
-    ],
+    "categories": ["living-room", "sofa"],
     "inventory_quantity": 15,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": { "sale_price": 1299.00 }
   },
   {
     "id": "SOFA-101-ON",
     "title": "Genoa Fabric Sofa",
     "link": "https://ashleyhomestore.ca/products/genoa-sofa",
     "description": "Genoa fabric sofa, Ontario region pricing",
-    "price": 1349,
+    "price": 1349.00,
     "image_link": "https://placehold.co/400x400?text=Genoa+Sofa",
-    "categories": [
-      "living-room",
-      "sofa"
-    ],
+    "categories": ["living-room", "sofa"],
     "inventory_quantity": 18,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": {}
   },
   {
     "id": "DINSET-310-MB",
     "title": "Bennox Dining Set",
     "link": "https://ashleyhomestore.ca/products/bennox-dining-set",
     "description": "Bennox 5-piece dining set, Manitoba region pricing",
-    "price": 899,
+    "price": 899.00,
     "image_link": "https://placehold.co/400x400?text=Bennox+Dining+Set",
-    "categories": [
-      "dining-room",
-      "dining-set"
-    ],
+    "categories": ["dining-room", "dining-set"],
     "inventory_quantity": 12,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": {}
   },
   {
     "id": "DINSET-310-ON",
     "title": "Bennox Dining Set",
     "link": "https://ashleyhomestore.ca/products/bennox-dining-set",
     "description": "Bennox 5-piece dining set, Ontario region pricing",
-    "price": 949,
+    "price": 949.00,
     "image_link": "https://placehold.co/400x400?text=Bennox+Dining+Set",
-    "categories": [
-      "dining-room",
-      "dining-set"
-    ],
+    "categories": ["dining-room", "dining-set"],
     "inventory_quantity": 10,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "metadata": {}
   }
 ]
